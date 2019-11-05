@@ -651,3 +651,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.05-00.48.03:369][166]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.188
 [2019.11.05-00.48.03:400][166]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/TurkeyProject01/Saved/2DSideScrollerCharacter466D5FB84DE0DC22FDEFCA90A210E9B5.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/TurkeyProject01/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
 [2019.11.05-00.48.17:900][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.11.05-00.50.13:877][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
